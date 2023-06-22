@@ -26,3 +26,4 @@ THEN the password is either displayed in an alert or written to the page
 ```
 
 ## Deployment URL
+https://palafos23.github.io/Javascript-password-generator/
