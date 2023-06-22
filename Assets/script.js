@@ -52,7 +52,7 @@ function generatePassword() {
     
  }
 //random for one variable that contains all characters 
-
+//added for fun 
     /*for(var i = 0; i < userChoicelenght; i++) {
     var allChars = Math.floor(Math.random() *allCharacterss.length);
     var password = password + allCharacterss[allChars];
